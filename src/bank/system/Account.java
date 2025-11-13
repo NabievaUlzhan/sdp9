@@ -1,5 +1,6 @@
 package bank.system;
-import bank.interfaces.*;
+import bank.interfaceElement.BankElement;
+import bank.interfaceVisitor.BankVisitor;
 
 public class Account implements BankElement {
     private String owner;

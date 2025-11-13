@@ -1,5 +1,6 @@
 package bank;
-import bank.interfaces.*;
+import bank.interfaceElement.BankElement;
+import bank.interfaceVisitor.BankVisitor;
 import bank.system.*;
 
 public class Main {

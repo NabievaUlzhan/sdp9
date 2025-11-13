@@ -1,5 +1,5 @@
 package bank.system;
-import bank.interfaces.BankVisitor;
+import bank.interfaceVisitor.BankVisitor;
 
 public class ReportVisitor implements BankVisitor {
     @Override

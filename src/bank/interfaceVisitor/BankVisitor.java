@@ -1,4 +1,4 @@
-package bank.interfaces;
+package bank.interfaceVisitor;
 import bank.system.*;
 
 public interface BankVisitor {
